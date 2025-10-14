@@ -17,3 +17,17 @@
   background-color: hsl(120, 100%, 75%);
   font-weight: bold;
 }
+
+.click{
+  background-color: black;
+  color: white;
+  font-size: 28px;
+  font-family: Helvetica, Times New Roman, sans-serif;
+}
+.noclick {
+  background-color: hsl(56, 100%, 59%);
+  font-size: 28px;
+  font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+
